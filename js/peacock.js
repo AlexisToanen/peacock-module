@@ -1,3 +1,4 @@
+// French Peacock Module create by ALexis TOANEN.
 var app = {
     init: function(){
 
