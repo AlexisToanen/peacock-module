@@ -1,6 +1,6 @@
 # Peacock Module JS
 
-### Created by Alexis Toanen
+### Created by Alexis Toanen :bird:
 
 Passionate about the web and Javascript I created this javascript event release module to make animated web pages simple and modern. This module is very light and extremely easy to use, so that everyone can easily use it
 
