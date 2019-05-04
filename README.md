@@ -1,8 +1,8 @@
 # Peacock Module JS
-## Create by Alexis Toanen
 
-### Event trigger module in JavaScript to animate pages in a modern way.
+### Created by Alexis Toanen
 
+Passionate about the web and Javascript I created this javascript event release module to make animated web pages simple and modern. This module is very light and extremely easy to use, so that everyone can easily use it
 
 ## HTML Usage
 
